@@ -1,0 +1,946 @@
+[
+    {
+        "marks": 285,
+        "percentile": 99.999
+    },
+    {
+        "marks": 269,
+        "percentile": 99.992
+    },
+    {
+        "marks": 265,
+        "percentile": 99.991
+    },
+    {
+        "marks": 260,
+        "percentile": 99.986
+    },
+    {
+        "marks": 251,
+        "percentile": 99.978
+    },
+    {
+        "marks": 248,
+        "percentile": 99.974
+    },
+    {
+        "marks": 236,
+        "percentile": 99.95
+    },
+    {
+        "marks": 235,
+        "percentile": 99.947
+    },
+    {
+        "marks": 230,
+        "percentile": 99.928
+    },
+    {
+        "marks": 223,
+        "percentile": 99.904
+    },
+    {
+        "marks": 219,
+        "percentile": 99.889
+    },
+    {
+        "marks": 218,
+        "percentile": 99.885
+    },
+    {
+        "marks": 215,
+        "percentile": 99.875
+    },
+    {
+        "marks": 212,
+        "percentile": 99.86
+    },
+    {
+        "marks": 211,
+        "percentile": 99.855
+    },
+    {
+        "marks": 209,
+        "percentile": 99.848
+    },
+    {
+        "marks": 205,
+        "percentile": 99.815
+    },
+    {
+        "marks": 204,
+        "percentile": 99.81
+    },
+    {
+        "marks": 203,
+        "percentile": 99.802
+    },
+    {
+        "marks": 202,
+        "percentile": 99.794
+    },
+    {
+        "marks": 199,
+        "percentile": 99.771
+    },
+    {
+        "marks": 198,
+        "percentile": 99.759
+    },
+    {
+        "marks": 194,
+        "percentile": 99.721
+    },
+    {
+        "marks": 193,
+        "percentile": 99.707
+    },
+    {
+        "marks": 192,
+        "percentile": 99.689
+    },
+    {
+        "marks": 190,
+        "percentile": 99.676
+    },
+    {
+        "marks": 189,
+        "percentile": 99.665
+    },
+    {
+        "marks": 187,
+        "percentile": 99.635
+    },
+    {
+        "marks": 186,
+        "percentile": 99.622
+    },
+    {
+        "marks": 185,
+        "percentile": 99.61
+    },
+    {
+        "marks": 184,
+        "percentile": 99.587
+    },
+    {
+        "marks": 182,
+        "percentile": 99.557
+    },
+    {
+        "marks": 181,
+        "percentile": 99.537
+    },
+    {
+        "marks": 180,
+        "percentile": 99.522
+    },
+    {
+        "marks": 179,
+        "percentile": 99.493
+    },
+    {
+        "marks": 178,
+        "percentile": 99.466
+    },
+    {
+        "marks": 177,
+        "percentile": 99.444
+    },
+    {
+        "marks": 175,
+        "percentile": 99.4
+    },
+    {
+        "marks": 173,
+        "percentile": 99.353
+    },
+    {
+        "marks": 172,
+        "percentile": 99.331
+    },
+    {
+        "marks": 170,
+        "percentile": 99.289
+    },
+    {
+        "marks": 169,
+        "percentile": 99.252
+    },
+    {
+        "marks": 168,
+        "percentile": 99.227
+    },
+    {
+        "marks": 167,
+        "percentile": 99.2
+    },
+    {
+        "marks": 166,
+        "percentile": 99.172
+    },
+    {
+        "marks": 164,
+        "percentile": 99.114
+    },
+    {
+        "marks": 163,
+        "percentile": 99.082
+    },
+    {
+        "marks": 162,
+        "percentile": 99.044
+    },
+    {
+        "marks": 161,
+        "percentile": 99.008
+    },
+    {
+        "marks": 160,
+        "percentile": 98.96
+    },
+    {
+        "marks": 158,
+        "percentile": 98.88
+    },
+    {
+        "marks": 156,
+        "percentile": 98.8
+    },
+    {
+        "marks": 155,
+        "percentile": 98.75
+    },
+    {
+        "marks": 154,
+        "percentile": 98.69
+    },
+    {
+        "marks": 153,
+        "percentile": 98.66
+    },
+    {
+        "marks": 152,
+        "percentile": 98.62
+    },
+    {
+        "marks": 151,
+        "percentile": 98.58
+    },
+    {
+        "marks": 150,
+        "percentile": 98.54
+    },
+    {
+        "marks": 149,
+        "percentile": 98.49
+    },
+    {
+        "marks": 148,
+        "percentile": 98.44
+    },
+    {
+        "marks": 147,
+        "percentile": 98.4
+    },
+    {
+        "marks": 146,
+        "percentile": 98.35
+    },
+    {
+        "marks": 145,
+        "percentile": 98.3
+    },
+    {
+        "marks": 143,
+        "percentile": 98.16
+    },
+    {
+        "marks": 142,
+        "percentile": 98.1
+    },
+    {
+        "marks": 141,
+        "percentile": 98.04
+    },
+    {
+        "marks": 140,
+        "percentile": 97.98
+    },
+    {
+        "marks": 139,
+        "percentile": 97.92
+    },
+    {
+        "marks": 138,
+        "percentile": 97.86
+    },
+    {
+        "marks": 137,
+        "percentile": 97.8
+    },
+    {
+        "marks": 136,
+        "percentile": 97.75
+    },
+    {
+        "marks": 135,
+        "percentile": 97.66
+    },
+    {
+        "marks": 134,
+        "percentile": 97.6
+    },
+    {
+        "marks": 133,
+        "percentile": 97.54
+    },
+    {
+        "marks": 132,
+        "percentile": 97.48
+    },
+    {
+        "marks": 131,
+        "percentile": 97.41
+    },
+    {
+        "marks": 130,
+        "percentile": 97.34
+    },
+    {
+        "marks": 129,
+        "percentile": 97.26
+    },
+    {
+        "marks": 128,
+        "percentile": 97.2
+    },
+    {
+        "marks": 127,
+        "percentile": 97.11
+    },
+    {
+        "marks": 126,
+        "percentile": 97.05
+    },
+    {
+        "marks": 125,
+        "percentile": 96.96
+    },
+    {
+        "marks": 124,
+        "percentile": 96.87
+    },
+    {
+        "marks": 123,
+        "percentile": 96.79
+    },
+    {
+        "marks": 122,
+        "percentile": 96.7
+    },
+    {
+        "marks": 121,
+        "percentile": 96.62
+    },
+    {
+        "marks": 120,
+        "percentile": 96.52
+    },
+    {
+        "marks": 119,
+        "percentile": 96.41
+    },
+    {
+        "marks": 118,
+        "percentile": 96.32
+    },
+    {
+        "marks": 117,
+        "percentile": 96.23
+    },
+    {
+        "marks": 116,
+        "percentile": 96.14
+    },
+    {
+        "marks": 115,
+        "percentile": 96.07
+    },
+    {
+        "marks": 114,
+        "percentile": 95.99
+    },
+    {
+        "marks": 113,
+        "percentile": 95.89
+    },
+    {
+        "marks": 112,
+        "percentile": 95.78
+    },
+    {
+        "marks": 111,
+        "percentile": 95.69
+    },
+    {
+        "marks": 110,
+        "percentile": 95.59
+    },
+    {
+        "marks": 109,
+        "percentile": 95.49
+    },
+    {
+        "marks": 108,
+        "percentile": 95.37
+    },
+    {
+        "marks": 107,
+        "percentile": 95.25
+    },
+    {
+        "marks": 106,
+        "percentile": 95.14
+    },
+    {
+        "marks": 105,
+        "percentile": 95.01
+    },
+    {
+        "marks": 104,
+        "percentile": 94.87
+    },
+    {
+        "marks": 103,
+        "percentile": 94.73
+    },
+    {
+        "marks": 102,
+        "percentile": 94.6
+    },
+    {
+        "marks": 101,
+        "percentile": 94.48
+    },
+    {
+        "marks": 100,
+        "percentile": 94.35
+    },
+    {
+        "marks": 99,
+        "percentile": 94.2
+    },
+    {
+        "marks": 98,
+        "percentile": 94.08
+    },
+    {
+        "marks": 97,
+        "percentile": 93.95
+    },
+    {
+        "marks": 96,
+        "percentile": 93.82
+    },
+    {
+        "marks": 95,
+        "percentile": 93.69
+    },
+    {
+        "marks": 94,
+        "percentile": 93.55
+    },
+    {
+        "marks": 93,
+        "percentile": 93.41
+    },
+    {
+        "marks": 92,
+        "percentile": 93.27
+    },
+    {
+        "marks": 91,
+        "percentile": 93.12
+    },
+    {
+        "marks": 90,
+        "percentile": 92.97
+    },
+    {
+        "marks": 89,
+        "percentile": 92.79
+    },
+    {
+        "marks": 88,
+        "percentile": 92.64
+    },
+    {
+        "marks": 87,
+        "percentile": 92.48
+    },
+    {
+        "marks": 86,
+        "percentile": 92.34
+    },
+    {
+        "marks": 85,
+        "percentile": 92.2
+    },
+    {
+        "marks": 84,
+        "percentile": 91.99
+    },
+    {
+        "marks": 83,
+        "percentile": 91.83
+    },
+    {
+        "marks": 82,
+        "percentile": 91.64
+    },
+    {
+        "marks": 81,
+        "percentile": 91.46
+    },
+    {
+        "marks": 80,
+        "percentile": 91.28
+    },
+    {
+        "marks": 79,
+        "percentile": 91.1
+    },
+    {
+        "marks": 78,
+        "percentile": 90.89
+    },
+    {
+        "marks": 77,
+        "percentile": 90.69
+    },
+    {
+        "marks": 76,
+        "percentile": 90.49
+    },
+    {
+        "marks": 75,
+        "percentile": 90.27
+    },
+    {
+        "marks": 74,
+        "percentile": 90.01
+    },
+    {
+        "marks": 73,
+        "percentile": 89.75
+    },
+    {
+        "marks": 72,
+        "percentile": 89.54
+    },
+    {
+        "marks": 71,
+        "percentile": 89.31
+    },
+    {
+        "marks": 70,
+        "percentile": 89.05
+    },
+    {
+        "marks": 69,
+        "percentile": 88.76
+    },
+    {
+        "marks": 68,
+        "percentile": 88.49
+    },
+    {
+        "marks": 67,
+        "percentile": 88.2
+    },
+    {
+        "marks": 66,
+        "percentile": 87.92
+    },
+    {
+        "marks": 65,
+        "percentile": 87.6
+    },
+    {
+        "marks": 64,
+        "percentile": 87.25
+    },
+    {
+        "marks": 63,
+        "percentile": 86.92
+    },
+    {
+        "marks": 62,
+        "percentile": 86.57
+    },
+    {
+        "marks": 61,
+        "percentile": 86.22
+    },
+    {
+        "marks": 60,
+        "percentile": 85.86
+    },
+    {
+        "marks": 59,
+        "percentile": 85.42
+    },
+    {
+        "marks": 58,
+        "percentile": 85.04
+    },
+    {
+        "marks": 57,
+        "percentile": 84.61
+    },
+    {
+        "marks": 56,
+        "percentile": 84.19
+    },
+    {
+        "marks": 55,
+        "percentile": 83.79
+    },
+    {
+        "marks": 54,
+        "percentile": 83.21
+    },
+    {
+        "marks": 53,
+        "percentile": 82.69
+    },
+    {
+        "marks": 52,
+        "percentile": 82.17
+    },
+    {
+        "marks": 51,
+        "percentile": 81.68
+    },
+    {
+        "marks": 50,
+        "percentile": 81.12
+    },
+    {
+        "marks": 49,
+        "percentile": 80.39
+    },
+    {
+        "marks": 48,
+        "percentile": 79.75
+    },
+    {
+        "marks": 47,
+        "percentile": 79.11
+    },
+    {
+        "marks": 46,
+        "percentile": 78.49
+    },
+    {
+        "marks": 45,
+        "percentile": 77.83
+    },
+    {
+        "marks": 44,
+        "percentile": 76.89
+    },
+    {
+        "marks": 43,
+        "percentile": 76.08
+    },
+    {
+        "marks": 42,
+        "percentile": 75.29
+    },
+    {
+        "marks": 41,
+        "percentile": 74.48
+    },
+    {
+        "marks": 40,
+        "percentile": 73.71
+    },
+    {
+        "marks": 39,
+        "percentile": 72.47
+    },
+    {
+        "marks": 38,
+        "percentile": 71.5
+    },
+    {
+        "marks": 37,
+        "percentile": 70.54
+    },
+    {
+        "marks": 36,
+        "percentile": 69.56
+    },
+    {
+        "marks": 35,
+        "percentile": 68.61
+    },
+    {
+        "marks": 34,
+        "percentile": 67.11
+    },
+    {
+        "marks": 33,
+        "percentile": 65.89
+    },
+    {
+        "marks": 32,
+        "percentile": 64.73
+    },
+    {
+        "marks": 31,
+        "percentile": 63.56
+    },
+    {
+        "marks": 30,
+        "percentile": 62.36
+    },
+    {
+        "marks": 29,
+        "percentile": 60.57
+    },
+    {
+        "marks": 28,
+        "percentile": 59.23
+    },
+    {
+        "marks": 27,
+        "percentile": 57.8
+    },
+    {
+        "marks": 26,
+        "percentile": 56.41
+    },
+    {
+        "marks": 25,
+        "percentile": 55.04
+    },
+    {
+        "marks": 24,
+        "percentile": 52.94
+    },
+    {
+        "marks": 23,
+        "percentile": 51.36
+    },
+    {
+        "marks": 22,
+        "percentile": 49.81
+    },
+    {
+        "marks": 21,
+        "percentile": 48.29
+    },
+    {
+        "marks": 20,
+        "percentile": 46.81
+    },
+    {
+        "marks": 19,
+        "percentile": 44.43
+    },
+    {
+        "marks": 18,
+        "percentile": 42.71
+    },
+    {
+        "marks": 17,
+        "percentile": 41.04
+    },
+    {
+        "marks": 16,
+        "percentile": 39.42
+    },
+    {
+        "marks": 15,
+        "percentile": 37.85
+    },
+    {
+        "marks": 14,
+        "percentile": 35.34
+    },
+    {
+        "marks": 13,
+        "percentile": 33.62
+    },
+    {
+        "marks": 12,
+        "percentile": 32.0
+    },
+    {
+        "marks": 11,
+        "percentile": 30.48
+    },
+    {
+        "marks": 10,
+        "percentile": 28.96
+    },
+    {
+        "marks": 9,
+        "percentile": 26.48
+    },
+    {
+        "marks": 8,
+        "percentile": 24.83
+    },
+    {
+        "marks": 7,
+        "percentile": 23.33
+    },
+    {
+        "marks": 6,
+        "percentile": 21.94
+    },
+    {
+        "marks": 5,
+        "percentile": 20.64
+    },
+    {
+        "marks": 4,
+        "percentile": 18.29
+    },
+    {
+        "marks": 3,
+        "percentile": 16.89
+    },
+    {
+        "marks": 2,
+        "percentile": 15.62
+    },
+    {
+        "marks": 1,
+        "percentile": 14.39
+    },
+    {
+        "marks": 0,
+        "percentile": 13.36
+    },
+    {
+        "marks": -1,
+        "percentile": 11.39
+    },
+    {
+        "marks": -2,
+        "percentile": 10.36
+    },
+    {
+        "marks": -3,
+        "percentile": 9.46
+    },
+    {
+        "marks": -4,
+        "percentile": 8.64
+    },
+    {
+        "marks": -5,
+        "percentile": 7.93
+    },
+    {
+        "marks": -6,
+        "percentile": 6.6
+    },
+    {
+        "marks": -7,
+        "percentile": 5.96
+    },
+    {
+        "marks": -8,
+        "percentile": 5.39
+    },
+    {
+        "marks": -9,
+        "percentile": 4.9
+    },
+    {
+        "marks": -10,
+        "percentile": 4.46
+    },
+    {
+        "marks": -11,
+        "percentile": 3.56
+    },
+    {
+        "marks": -12,
+        "percentile": 3.2
+    },
+    {
+        "marks": -13,
+        "percentile": 2.89
+    },
+    {
+        "marks": -14,
+        "percentile": 2.6
+    },
+    {
+        "marks": -15,
+        "percentile": 2.35
+    },
+    {
+        "marks": -16,
+        "percentile": 1.79
+    },
+    {
+        "marks": -17,
+        "percentile": 1.59
+    },
+    {
+        "marks": -18,
+        "percentile": 1.41
+    },
+    {
+        "marks": -19,
+        "percentile": 1.25
+    },
+    {
+        "marks": -20,
+        "percentile": 1.12
+    },
+    {
+        "marks": -21,
+        "percentile": 0.8
+    },
+    {
+        "marks": -23,
+        "percentile": 0.63
+    },
+    {
+        "marks": -24,
+        "percentile": 0.55
+    },
+    {
+        "marks": -25,
+        "percentile": 0.51
+    },
+    {
+        "marks": -27,
+        "percentile": 0.29
+    },
+    {
+        "marks": -29,
+        "percentile": 0.24
+    },
+    {
+        "marks": -30,
+        "percentile": 0.22
+    },
+    {
+        "marks": -36,
+        "percentile": 0.04
+    },
+    {
+        "marks": -40,
+        "percentile": 0.02
+    }
+]
